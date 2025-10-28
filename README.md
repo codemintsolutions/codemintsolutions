@@ -36,15 +36,6 @@ Beyond development - we help you **plan, optimize, and scale** using agile workf
 
 <br />
 
-## Tech Stack
-<!--
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js, MongoDB, Firebase  
-- **Mobile:** React Native  
-- **Design & Branding:** Figma, Adobe XD, Photoshop, Illustrator, After Effects  
-- **Hosting & Deployment:** Vercel, Render, Netlify, AWS, Ubuntu Server  
--->
-
 ## 🧠 Tech Stack & Tools
 
 <p>
