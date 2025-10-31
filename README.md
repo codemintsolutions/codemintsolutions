@@ -100,16 +100,16 @@ Beyond development - we help you **plan, optimize, and scale** using agile workf
     <img src="https://avatars.githubusercontent.com/u/122479676?v=4" width="80" height="80" />
   </a>
   <a href="https://github.com/vrushal1018">
-    <img src="https://avatars.githubusercontent.com/u/220584900?v=4" width="80" height="80" />
+    <img src="https://i.pinimg.com/736x/3e/64/24/3e64249d7026b2db88dba9ca08920340.jpg" width="80" height="80" />
   </a>
   <a href="https://github.com/BEAST1807">
-    <img src="https://avatars.githubusercontent.com/u/182793841?v=4" width="80" height="80" />
+    <img src="https://i.pinimg.com/736x/e0/81/44/e081444a3bd0a818df9c1719dbd8ac00.jpg" width="80" height="80" />
   </a>
   <a href="https://github.com/akshayhydra">
-    <img src="https://avatars.githubusercontent.com/u/129942680?v=4" width="80" height="80" />
+    <img src="https://i.pinimg.com/736x/b9/9c/75/b99c75491dc0ebd4e88e6386b9123b85.jpg" width="80" height="80" />
   </a>
   <a href="https://github.com/sakshi18777">
-    <img src="https://avatars.githubusercontent.com/u/194662750?v=4" width="80" height="80" />
+    <img src="https://i.pinimg.com/1200x/b3/13/1a/b3131a9dc6aaf7f22372b971d08554cd.jpg" width="80" height="80" />
   </a>
 </p>
 
