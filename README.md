@@ -127,5 +127,7 @@ We value collaboration, innovation, and learning. Every project is a chance to e
 ## 📬 Contact Us
 
 📧 **Email:** codemintsolutions@gmail.com  
-🌐 **Website:** [CodeMintSolutions Website](http://codemintsolutions.com)  
+
+🌐 **Website:** [CodeMintSolutions.com](http://codemintsolutions.com)  
+
 💼 **GitHub:** [CodeMintSolutions](https://github.com/CodeMintSolutions)
