@@ -97,19 +97,19 @@ Beyond development - we help you **plan, optimize, and scale** using agile workf
 
 <p align="left">
   <a href="https://github.com/x-darkvanilla-x">
-    <img src="https://avatars.githubusercontent.com/u/122479676?v=4" width="80" height="80" />
+    <img src="https://www.codemintsolutions.com/images/team/5.png" style="width: 80px; aspect-ratio: 4 / 5; object-fit: cover;"  />
   </a>
   <a href="https://github.com/vrushal1018">
-    <img src="https://i.pinimg.com/1200x/bb/00/fb/bb00fbabd0a58d0bc918cb8bd5664837.jpg" width="80" height="80" />
+    <img src="https://www.codemintsolutions.com/images/team/2.png" style="width: 80px; aspect-ratio: 4 / 5; object-fit: cover;"  />
   </a>
   <a href="https://github.com/BEAST1807">
-    <img src="https://i.pinimg.com/736x/b5/fb/bd/b5fbbd50f3aab7abe6335069b03725d3.jpg" width="80" height="80" />
+    <img src="https://www.codemintsolutions.com/images/team/1.png" style="width: 80px; aspect-ratio: 4 / 5; object-fit: cover;"  />
   </a>
   <a href="https://github.com/akshayhydra">
-    <img src="https://i.pinimg.com/736x/bc/94/48/bc94487dccc4d9af4de23c9d19b80cde.jpg" width="80" height="80" />
+    <img src="https://www.codemintsolutions.com/images/team/4.png" style="width: 80px; aspect-ratio: 4 / 5; object-fit: cover;"  />
   </a>
   <a href="https://github.com/sakshi18777">
-    <img src="https://i.pinimg.com/1200x/b3/13/1a/b3131a9dc6aaf7f22372b971d08554cd.jpg" width="80" height="80" />
+    <img src="https://www.codemintsolutions.com/images/team/3.png" style="width: 80px; aspect-ratio: 4 / 5; object-fit: cover;"  />
   </a>
 </p>
 
