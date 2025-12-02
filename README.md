@@ -100,7 +100,7 @@ Beyond development - we help you **plan, optimize, and scale** using agile workf
     <img src="https://avatars.githubusercontent.com/u/122479676?v=4" style="width: 80px; aspect-ratio: 1; object-fit: cover;"  />
   </a>
   <a href="https://github.com/vrushal1018">
-    <img src="https://i.pinimg.com/736x/d0/49/30/d049305e8403945c58e523fd3c4e4beb.jpg" style="width: 80px; aspect-ratio: 1; object-fit: cover;"  />
+    <img src="https://i.pinimg.com/736x/1b/1e/c8/1b1ec821d5549d937cd0fd7ea8e38685.jpg" style="width: 80px; aspect-ratio: 1; object-fit: cover;"  />
   </a>
   <a href="https://github.com/BEAST1807">
     <img src="https://i.pinimg.com/1200x/bb/00/fb/bb00fbabd0a58d0bc918cb8bd5664837.jpg" style="width: 80px; aspect-ratio: 1; object-fit: cover;"  />
