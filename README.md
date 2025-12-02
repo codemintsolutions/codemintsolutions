@@ -97,19 +97,19 @@ Beyond development - we help you **plan, optimize, and scale** using agile workf
 
 <p align="left">
   <a href="https://github.com/x-darkvanilla-x">
-    <img src="https://avatars.githubusercontent.com/u/122479676?v=4" style="width: 80px; aspect-ratio: 4 / 5; object-fit: cover;"  />
+    <img src="https://avatars.githubusercontent.com/u/122479676?v=4" style="width: 80px; aspect-ratio: 1; object-fit: cover;"  />
   </a>
   <a href="https://github.com/vrushal1018">
-    <img src="https://avatars.githubusercontent.com/u/122479676?v=4" style="width: 80px; aspect-ratio: 4 / 5; object-fit: cover;"  />
+    <img src="https://i.pinimg.com/736x/d0/49/30/d049305e8403945c58e523fd3c4e4beb.jpg" style="width: 80px; aspect-ratio: 1; object-fit: cover;"  />
   </a>
   <a href="https://github.com/BEAST1807">
-    <img src="https://avatars.githubusercontent.com/u/122479676?v=4" style="width: 80px; aspect-ratio: 4 / 5; object-fit: cover;"  />
+    <img src="https://avatars.githubusercontent.com/u/122479676?v=4" style="width: 80px; aspect-ratio: 1; object-fit: cover;"  />
   </a>
   <a href="https://github.com/akshayhydra">
-    <img src="https://avatars.githubusercontent.com/u/122479676?v=4" style="width: 80px; aspect-ratio: 4 / 5; object-fit: cover;"  />
+    <img src="https://i.pinimg.com/736x/47/00/82/470082f620893fe583e0e255a3d8e369.jpg" style="width: 80px; aspect-ratio: 1; object-fit: cover;"  />
   </a>
   <a href="https://github.com/sakshi18777">
-    <img src="https://avatars.githubusercontent.com/u/122479676?v=4" style="width: 80px; aspect-ratio: 4 / 5; object-fit: cover;"  />
+    <img src="https://i.pinimg.com/1200x/96/03/1b/96031b82a024fac1d3d5f2db574cc9e3.jpg" style="width: 80px; aspect-ratio: 1; object-fit: cover;"  />
   </a>
 </p>
 
